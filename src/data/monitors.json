@@ -1,0 +1,74 @@
+{
+    "product": [
+        {
+            "name": "Lenovo ThinkVision E22-28 22\" (1920 x 1080) FHD Raven Black Monitor",
+            "description": "Lenovo ThinkVision E22-28 monitor with 22\" Full HD (1920 x 1080) resolution, Raven Black color.",
+            "screen_size": "22\"",
+            "resolution": "1920 x 1080",
+            "color": "Raven Black",
+            "manufacturer": "Lenovo",
+            "price": "$245,00"
+        },
+        {
+            "name": "Lenovo ThinkVision T22v-20 21.5\" (1920x180) IPS Monitor VoIP Camera Microphone Speaker",
+            "description": "Lenovo ThinkVision T22v-20 monitor with 21.5\" IPS display, VoIP Camera, Microphone, and Speaker.",
+            "screen_size": "21.5\"",
+            "resolution": "1920 x 180",
+            "features": "VoIP Camera, Microphone, Speaker",
+            "manufacturer": "Lenovo",
+            "price": "$265,00"
+        },
+        {
+            "name": "Lenovo C27-30 27\" (1080p) LED monitor",
+            "description": "Lenovo C27-30 LED monitor with 27\" Full HD (1080p) resolution.",
+            "screen_size": "27\"",
+            "resolution": "1080p",
+            "manufacturer": "Lenovo",
+            "price": "$295,00"
+        },
+        {
+            "name": "Dell SE2722H Monitor 27\" (1920x1080) 75Hz IPS 4ms (GtG) 250 cd/m² AMD FreeSync1xHDMI (1.4) 1xVGA 3000:1 120-230V, 50-60Hz 16:9 Tilt Adjustments BLACK.",
+            "description": "Dell SE2722H Monitor with 27\" Full HD (1920x1080) resolution, 75Hz refresh rate, IPS panel, AMD FreeSync, and various adjustments.",
+            "screen_size": "27\"",
+            "resolution": "1920x1080",
+            "features": "IPS, 75Hz Refresh Rate, AMD FreeSync, Tilt Adjustments",
+            "manufacturer": "Dell",
+            "price": "$325,00"
+        },
+        {
+            "name": "Samsung F396 Curved 27\" (1920x1080) 60Hz 4(GTG)ms 3000:1 16:9 1800R LED Monitor BLACK.",
+            "description": "Samsung F396 Curved Monitor with 27\" Full HD (1920x1080) resolution, 60Hz refresh rate, 1800R curvature, and LED technology.",
+            "screen_size": "27\"",
+            "resolution": "1920x1080",
+            "features": "Curved, 60Hz Refresh Rate, LED Technology",
+            "manufacturer": "Samsung",
+            "price": "$325,00"
+        },
+        {
+            "name": "Lenovo D27q-30 27\" (2560x1440) Monitor",
+            "description": "Lenovo D27q-30 Monitor with 27\" QHD (2560x1440) resolution.",
+            "screen_size": "27\"",
+            "resolution": "2560x1440",
+            "manufacturer": "Lenovo",
+            "price": "$325,00"
+        },
+        {
+            "name": "Lenovo ThinkVision T27h-2L 27 QHD (2560x1440) IPS Monitor",
+            "description": "Lenovo ThinkVision T27h-2L monitor with 27\" QHD (2560x1440) IPS display.",
+            "screen_size": "27\"",
+            "resolution": "2560x1440",
+            "features": "IPS Panel",
+            "manufacturer": "Lenovo",
+            "price": "$350,00"
+        },
+        {
+            "name": "Lenovo ThinkCentre Tiny-In-One w/ Webcam 21.5\" (1920x1080) IPS TOUCHSCREEN Gen 4 Monitor.",
+            "description": "Lenovo ThinkCentre Tiny-In-One Monitor with 21.5\" IPS TOUCHSCREEN display, Webcam, and Gen 4 compatibility.",
+            "screen_size": "21.5\"",
+            "resolution": "1920x1080",
+            "features": "IPS Panel, Touchscreen, Webcam",
+            "manufacturer": "Lenovo",
+            "price": "$350,00"
+        }
+    ]
+}

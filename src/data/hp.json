@@ -1,0 +1,98 @@
+{
+    "product": [
+      {
+        "name": "HP 22-DD0123 ALL-IN-ONE Pentium® Silver J5040 128GB SSD 4GB 21.5\" (1920x1080) WIN11 Webcam SNOW WHITE Keyboard Mouse.",
+        "description": "HP 22-DD0123 ALL-IN-ONE desktop with Pentium® Silver J5040 processor, 128GB SSD storage, 4GB RAM, 21.5\" Full HD display (1920x1080), Windows 11 operating system, Webcam, Snow White color, includes Keyboard and Mouse.",
+        "screen_size": "21.5\"",
+        "resolution": "1920x1080",
+        "processor": "Pentium® Silver J5040",
+        "storage": "128GB SSD",
+        "memory": "4GB",
+        "operating_system": "Windows 11",
+        "features": ["Webcam"],
+        "color": "Snow White",
+        "included_accessories": ["Keyboard", "Mouse"],
+        "manufacturer": "HP",
+        "price": "$485,00"
+      },
+      {
+        "name": "HP 24-DF1023 ALL-IN-ONE Core™ i3-1115G4 256GB SSD 4GB 23.8\" (1920x1080) IPS WIN11 Webcam SNOW WHITE Keyboard Mouse.",
+        "description": "HP 24-DF1023 ALL-IN-ONE desktop with Core™ i3-1115G4 processor, 256GB SSD storage, 4GB RAM, 23.8\" Full HD IPS display (1920x1080), Windows 11 operating system, Webcam, Snow White color, includes Keyboard and Mouse.",
+        "screen_size": "23.8\"",
+        "resolution": "1920x1080",
+        "processor": "Core™ i3-1115G4",
+        "storage": "256GB SSD",
+        "memory": "4GB",
+        "operating_system": "Windows 11",
+        "features": ["Webcam"],
+        "color": "Snow White",
+        "included_accessories": ["Keyboard", "Mouse"],
+        "manufacturer": "HP",
+        "price": "$585,00"
+      },
+      {
+        "name": "HP Pavilion 15-EH2700 AMD Ryzen™ 5 5625U 256GB SSD 8GB 15.6\" (1920x1080) WIN11 NATURAL SILVER.",
+        "description": "HP Pavilion 15-EH2700 laptop with AMD Ryzen™ 5 5625U processor, 256GB SSD storage, 8GB RAM, 15.6\" Full HD display (1920x1080), Windows 11 operating system, Natural Silver color.",
+        "screen_size": "15.6\"",
+        "resolution": "1920x1080",
+        "processor": "AMD Ryzen™ 5 5625U",
+        "storage": "256GB SSD",
+        "memory": "8GB",
+        "operating_system": "Windows 11",
+        "color": "Natural Silver",
+        "manufacturer": "HP",
+        "price": "$795,00"
+      },
+      {
+        "name": "HP Pavilion 15T-EG000 Core™ i5-1235U 256GB SSD 16GB 15.6\" (1920x1080) WIN11.",
+        "description": "HP Pavilion 15T-EG000 laptop with Core™ i5-1235U processor, 256GB SSD storage, 16GB RAM, 15.6\" Full HD display (1920x1080), Windows 11 operating system.",
+        "screen_size": "15.6\"",
+        "resolution": "1920x1080",
+        "processor": "Core™ i5-1235U",
+        "storage": "256GB SSD",
+        "memory": "16GB",
+        "operating_system": "Windows 11",
+        "manufacturer": "HP",
+        "price": "$855,00"
+      },
+      {
+        "name": "HP EliteBook 840 G6 Core™ i7-8665U 512GB SSD 16GB 14\" (1920x1080) WIN10 Pro SILVER.",
+        "description": "HP EliteBook 840 G6 laptop with Core™ i7-8665U processor, 512GB SSD storage, 16GB RAM, 14\" Full HD display (1920x1080), Windows 10 Pro operating system, Silver color.",
+        "screen_size": "14\"",
+        "resolution": "1920x1080",
+        "processor": "Core™ i7-8665U",
+        "storage": "512GB SSD",
+        "memory": "16GB",
+        "operating_system": "Windows 10 Pro",
+        "color": "Silver",
+        "manufacturer": "HP",
+        "price": "$905,00"
+      },
+      {
+        "name": "HP 14-DQ5000 Core™ i5-1235U 512GB SSD 16GB 14\" (1366x768) WIN11.",
+        "description": "HP 14-DQ5000 laptop with Core™ i5-1235U processor, 512GB SSD storage, 16GB RAM, 14\" HD display (1366x768), Windows 11 operating system.",
+        "screen_size": "14\"",
+        "resolution": "1366x768",
+        "processor": "Core™ i5-1235U",
+        "storage": "512GB SSD",
+        "memory": "16GB",
+        "operating_system": "Windows 11",
+        "manufacturer": "HP",
+        "price": "$825,00"
+      },
+      {
+        "name": "HP 15-DY2127 Core™ i7-1165G7 256GB SSD 8GB 15.6\" (1366x768) WIN11 NATURAL SILVER",
+        "description": "HP 15-DY2127 laptop with Core™ i7-1165G7 processor, 256GB SSD storage, 8GB RAM, 15.6\" HD display (1366x768), Windows 11 operating system, Natural Silver color.",
+        "screen_size": "15.6\"",
+        "resolution": "1366x768",
+        "processor": "Core™ i7-1165G7",
+        "storage": "256GB SSD",
+        "memory": "8GB",
+        "operating_system": "Windows 11",
+        "color": "Natural Silver",
+        "manufacturer": "HP",
+        "price": "$895,00"
+      }
+    ]
+  }
+  

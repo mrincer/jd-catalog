@@ -1,0 +1,67 @@
+{
+    "product": [
+      {
+        "name": "MSI GF63 THIN GAMING Core™ i5-10500H 512GB SSD 8GB 15.6\" (1920x1080) 144Hz WIN10 NVIDIA® RTX 3050Ti 4096MB BLACK Backlit Keyboard.",
+        "description": "MSI GF63 THIN GAMING laptop with Core™ i5-10500H processor, 512GB SSD storage, 8GB RAM, 15.6\" Full HD display (1920x1080) with 144Hz refresh rate, Windows 10 operating system, NVIDIA® RTX 3050Ti 4096MB graphics, Black color, Backlit Keyboard.",
+        "screen_size": "15.6\"",
+        "resolution": "1920x1080",
+        "refresh_rate": "144Hz",
+        "processor": "Core™ i5-10500H",
+        "storage": "512GB SSD",
+        "memory": "8GB",
+        "operating_system": "Windows 10",
+        "graphics": "NVIDIA® RTX 3050Ti 4096MB",
+        "color": "Black",
+        "features": ["Backlit Keyboard"],
+        "manufacturer": "MSI",
+        "price": "$995,00"
+      },
+      {
+        "name": "Dell G15 5520 GAMING Core™ i5-12500H 512GB SSD 8GB 15.6\" (1920x1080) 120Hz WIN11 NVIDIA® RTX 3050Ti 4096MB DARK SHADOW GRAY Orange Backlit Keyboard",
+        "description": "Dell G15 5520 GAMING laptop with Core™ i5-12500H processor, 512GB SSD storage, 8GB RAM, 15.6\" Full HD display (1920x1080) with 120Hz refresh rate, Windows 11 operating system, NVIDIA® RTX 3050Ti 4096MB graphics, Dark Shadow Gray color, Orange Backlit Keyboard.",
+        "screen_size": "15.6\"",
+        "resolution": "1920x1080",
+        "refresh_rate": "120Hz",
+        "processor": "Core™ i5-12500H",
+        "storage": "512GB SSD",
+        "memory": "8GB",
+        "operating_system": "Windows 11",
+        "graphics": "NVIDIA® RTX 3050Ti 4096MB",
+        "color": "Dark Shadow Gray",
+        "features": ["Orange Backlit Keyboard"],
+        "manufacturer": "Dell",
+        "price": "$1,150,00"
+      },
+      {
+        "name": "Dell Alienware M15 R7 RYZEN GAMING Ryzen 7 6800H 512GB SSD 16GB 15.6\" (1920x1080) 165HZ G-SYNC WIN11 NVIDIA® RTX 3060 6144MB DARK SIDE OF THE MOON Backlit Keyboard - DELL PRO SUPPORT.",
+        "description": "Dell Alienware M15 R7 RYZEN GAMING laptop with Ryzen 7 6800H processor, 512GB SSD storage, 16GB RAM, 15.6\" Full HD display (1920x1080) with 165Hz refresh rate and G-SYNC technology, Windows 11 operating system, NVIDIA® RTX 3060 6144MB graphics, Dark Side of the Moon color, Backlit Keyboard, Dell Pro Support.",
+        "screen_size": "15.6\"",
+        "resolution": "1920x1080",
+        "refresh_rate": "165Hz",
+        "processor": "Ryzen 7 6800H",
+        "storage": "512GB SSD",
+        "memory": "16GB",
+        "operating_system": "Windows 11",
+        "graphics": "NVIDIA® RTX 3060 6144MB",
+        "color": "Dark Side of the Moon",
+        "features": ["Backlit Keyboard", "Dell Pro Support"],
+        "manufacturer": "Dell",
+        "price": "$1,830,00"
+      },
+      {
+        "name": "Dell G15 5510 GAMING Core™ i5-10500H 256GB SSD 8GB 15.6\" (1920x1080) 120Hz WIN11 NVIDIA® GTX 1650 40.",
+        "description": "Dell G15 5510 GAMING laptop with Core™ i5-10500H processor, 256GB SSD storage, 8GB RAM, 15.6\" Full HD display (1920x1080) with 120Hz refresh rate, Windows 11 operating system, NVIDIA® GTX 1650 4GB graphics.",
+        "screen_size": "15.6\"",
+        "resolution": "1920x1080",
+        "refresh_rate": "120Hz",
+        "processor": "Core™ i5-10500H",
+        "storage": "256GB SSD",
+        "memory": "8GB",
+        "operating_system": "Windows 11",
+        "graphics": "NVIDIA® GTX 1650 4GB",
+        "manufacturer": "Dell",
+        "price": "$995,00"
+      }
+    ]
+  }
+  

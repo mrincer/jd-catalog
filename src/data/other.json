@@ -1,0 +1,274 @@
+{
+    "product": [
+        {
+            "name": "Lenovo 1 14IGL05 Pentium® Silver N5030 128GB SSD 4GB 14\" (1366x768) WIN10 ICE BLUE.",
+            "description": "Lenovo 1 14IGL05 laptop with Pentium® Silver N5030, 128GB SSD, 4GB RAM, 14\" display (1366x768), Ice Blue color.",
+            "screen_size": "14\"",
+            "resolution": "1366x768",
+            "color": "Ice Blue",
+            "manufacturer": "Lenovo",
+            "price": "$390,00"
+        },
+        {
+            "name": "HP 15-DY0027 Celeron® Dual-Core N4020 128GB SSD 4GB 15.6\" (1366x768) WIN10 PALE ROSE GOLD",
+            "description": "HP 15-DY0027 laptop with Celeron® Dual-Core N4020, 128GB SSD, 4GB RAM, 15.6\" display (1366x768), Pale Rose Gold color.",
+            "screen_size": "15.6\"",
+            "resolution": "1366x768",
+            "color": "Pale Rose Gold",
+            "manufacturer": "HP",
+            "price": "$435,00"
+        },
+        {
+            "name": "HP 15-DY0026 Celeron® Dual-Core N4020 128GB SSD 4GB 15.6\" (1366x768) WIN10 PALE GOLD",
+            "description": "HP 15-DY0026 laptop with Celeron® Dual-Core N4020, 128GB SSD, 4GB RAM, 15.6\" display (1366x768), Pale Gold color.",
+            "screen_size": "15.6\"",
+            "resolution": "1366x768",
+            "color": "Pale Gold",
+            "manufacturer": "HP",
+            "price": "$435,00"
+        },
+        {
+            "name": "HP 15-EF1071 BUNDLE AMD Athlon™ Silver 3050U 128GB SSD 4GB 15.6\" (1366x768) WIN10 S SILVER",
+            "description": "HP 15-EF1071 BUNDLE laptop with AMD Athlon™ Silver 3050U, 128GB SSD, 4GB RAM, 15.6\" display (1366x768), Silver color.",
+            "screen_size": "15.6\"",
+            "resolution": "1366x768",
+            "color": "Silver",
+            "manufacturer": "HP",
+            "price": "$435,00"
+        },
+        {
+            "name": "Dell Latitude 7390 2-IN-1 CONVERTIBLE Core™ i5-8250U 512GB SSD 8GB 13.3\" (1920x1080) TOUCHSCREEN NO OS Backlit Keeyboard BLACK",
+            "description": "Dell Latitude 7390 2-IN-1 CONVERTIBLE laptop with Core™ i5-8250U, 512GB SSD, 8GB RAM, 13.3\" touchscreen (1920x1080), Black color.",
+            "screen_size": "13.3\"",
+            "resolution": "1920x1080",
+            "features": "Touchscreen, Backlit Keyboard",
+            "manufacturer": "Dell",
+            "price": "$650,00"
+        },
+        {
+            "name": "Lenovo FLEX 5 14IAU7 2-IN-1 CONVERTIBLE Core™ i3-1215U 256GB SSD 8GB 14\" (1920x1200) TOUCHSCREEN IPS WIN11 S STORM GREY",
+            "description": "Lenovo FLEX 5 14IAU7 2-IN-1 CONVERTIBLE laptop with Core™ i3-1215U, 256GB SSD, 8GB RAM, 14\" touchscreen (1920x1200), Storm Grey color.",
+            "screen_size": "14\"",
+            "resolution": "1920x1200",
+            "features": "Touchscreen, IPS Display",
+            "manufacturer": "Lenovo",
+            "price": "$650,00"
+        },
+        {
+            "name": "Dell Latitude 7390 2-IN-1 CONVERTIBLE Core™ i5-8350U 512GB SSD 16GB 13.3\" (1920x1080) TOUCHSCREEN WIN10 Pro Backlit Keeyboard BLACK.",
+            "description": "Dell Latitude 7390 2-IN-1 CONVERTIBLE laptop with Core™ i5-8350U, 512GB SSD, 16GB RAM, 13.3\" touchscreen (1920x1080), Black color.",
+            "screen_size": "13.3\"",
+            "resolution": "1920x1080",
+            "features": "Touchscreen, Backlit Keyboard",
+            "manufacturer": "Dell",
+            "price": "$650,00"
+        },
+        {
+            "name": "Lenovo FLEX 5 14IAU7 2-IN-1 CONVERTIBLE Core™ i3-1215U 256GB SSD 8GB 14\" (1920x1200) TOUCHSCREEN IPS WIN11 S STORM GREY FP Reader.",
+            "description": "Lenovo FLEX 5 14IAU7 2-IN-1 CONVERTIBLE laptop with Core™ i3-1215U, 256GB SSD, 8GB RAM, 14\" touchscreen (1920x1200), Storm Grey color, and FP Reader.",
+            "screen_size": "14\"",
+            "resolution": "1920x1200",
+            "features": "Touchscreen, IPS Display, FP Reader",
+            "manufacturer": "Lenovo",
+            "price": "$650,00"
+        },
+        {
+            "name": "Dell Latitude 7490 Core™ i5-8250U 256GB SSD 8GB 14\" (1920x1080) WIN10 Pro Backlit Keyboard BLACK",
+            "description": "Dell Latitude 7490 laptop with Core™ i5-8250U, 256GB SSD, 8GB RAM, 14\" display (1920x1080), Black color.",
+            "screen_size": "14\"",
+            "resolution": "1920x1080",
+            "features": "Backlit Keyboard",
+            "manufacturer": "Dell",
+            "price": "$600,00"
+        },
+        {
+            "name": "HP 17-CP2006DS AMD Ryzen™ 3 7320U 2.4GHz 256GB SSD 8GB 17.3\" (1600x900) TOUCHSCREEN BT WIN11 Webcam PALE ROSE GOLD Backlit Keyboard",
+            "description": "HP 17-CP2006DS laptop with AMD Ryzen™ 3 7320U, 256GB SSD, 8GB RAM, 17.3\" touchscreen (1600x900), Pale Rose Gold color.",
+            "screen_size": "17.3\"",
+            "resolution": "1600x900",
+            "features": "Touchscreen, Bluetooth, Webcam, Backlit Keyboard",
+            "manufacturer": "HP",
+            "price": "$675,00"
+        },
+        {
+            "name": "Lenovo ThinkPad L14 Gen 1 AMD Ryzen™ 5 PRO 4650U 256GB SSD 8GB 14\" (1920x1080) WIN10 Pro BLACK",
+            "description": "Lenovo ThinkPad L14 Gen 1 laptop with AMD Ryzen™ 5 PRO 4650U, 256GB SSD, 8GB RAM, 14\" display (1920x1080), Black color.",
+            "screen_size": "14\"",
+            "resolution": "1920x1080",
+            "features": "Windows 10 Pro",
+            "manufacturer": "Lenovo",
+            "price": "$750,00"
+        },
+        {
+            "name": "HP 17-CP1035 AMD Ryzen™ 5 5625U 1TB 12GB 17.3\" (1600x900) TOUCHSCREEN WIN11 NATURAL SILVER",
+            "description": "HP 17-CP1035 laptop with AMD Ryzen™ 5 5625U, 1TB SSD, 12GB RAM, 17.3\" touchscreen (1600x900), Natural Silver color.",
+            "screen_size": "17.3\"",
+            "resolution": "1600x900",
+            "features": "Touchscreen",
+            "manufacturer": "HP",
+            "price": "$750,00"
+        },
+        {
+            "name": "Lenovo 5 15ALC05 AMD Ryzen™ 7 5700U 512GB SSD 8GB 15.6\" (1920x1080) WIN11 ABYSS BLUE Backlit Keyboard FP Reader",
+            "description": "Lenovo 5 15ALC05 laptop with AMD Ryzen™ 7 5700U, 512GB SSD, 8GB RAM, 15.6\" display (1920x1080), Abyss Blue color, Backlit Keyboard, FP Reader.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Windows 11, Backlit Keyboard, FP Reader",
+            "manufacturer": "Lenovo",
+            "price": "$775,00"
+        },
+        {
+            "name": "HP 15-EF2729 AMD Ryzen™ 5 5500U 256GB SSD 8GB 15.6\" (1920x1080) WIN11 SPRUCE BLUE.",
+            "description": "HP 15-EF2729 laptop with AMD Ryzen™ 5 5500U, 256GB SSD, 8GB RAM, 15.6\" display (1920x1080), Spruce Blue color.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Windows 11",
+            "manufacturer": "HP",
+            "price": "$775,00"
+        },
+        {
+            "name": "HP Pavilion x360 2-IN-1 Convertible 15-CR0051 Core™ i5-8250U 1TB 8GB+16GB Optane 15.6\" (1920x1080) TOUCHSCREEN WIN10 SILVER",
+            "description": "HP Pavilion x360 2-IN-1 Convertible laptop with Core™ i5-8250U, 1TB HDD + 8GB Optane, 8GB RAM, 15.6\" touchscreen (1920x1080), Silver color.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Touchscreen, Windows 10",
+            "manufacturer": "HP",
+            "price": "$795,00"
+        },
+        {
+            "name": "HP 15-EF2130 Ryzen™ 5 5500U 256GB SSD 8GB 15.6\" (1920x1080) WIN11 ROSE GOLD. 1 Year Warranty, ETA: 7 Days, Retail Box, New Factory Sealed",
+            "description": "HP 15-EF2130 laptop with Ryzen™ 5 5500U, 256GB SSD, 8GB RAM, 15.6\" display (1920x1080), Rose Gold color. Includes 1 Year Warranty.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Windows 11, 1 Year Warranty, Retail Box, Factory Sealed",
+            "manufacturer": "HP",
+            "price": "$795,00"
+        },
+        {
+            "name": "HP 17-CN2003 Core™ i5-1235U 512GB SSD 12GB 17.3\" (1600x900) TOUCHSCREEN WIN11 UNIVERSAL BLUE Backlit Keyboard FP",
+            "description": "HP 17-CN2003 laptop with Core™ i5-1235U, 512GB SSD, 12GB RAM, 17.3\" touchscreen (1600x900), Universal Blue color, Backlit Keyboard, FP Reader.",
+            "screen_size": "17.3\"",
+            "resolution": "1600x900",
+            "features": "Touchscreen, Windows 11, Backlit Keyboard, FP Reader",
+            "manufacturer": "HP",
+            "price": "$815,00"
+        },
+        {
+            "name": "HP 17-CN2002 Core™ i5-1235U 512GB SSD 12GB 17.3\" (1600x900) TOUCHSCREEN WIN11 ROSE GOLD Backlit Keyboard FP",
+            "description": "HP 17-CN2002 laptop with Core™ i5-1235U, 512GB SSD, 12GB RAM, 17.3\" touchscreen (1600x900), Rose Gold color, Backlit Keyboard, FP Reader.",
+            "screen_size": "17.3\"",
+            "resolution": "1600x900",
+            "features": "Touchscreen, Windows 11, Backlit Keyboard, FP Reader",
+            "manufacturer": "HP",
+            "price": "$815,00"
+        },
+        {
+            "name": "HP 17-CN2004 Core™ i5-1235U 512GB SSD 12GB 17.3\" (1600x900) TOUCHSCREEN WIN11 PEACOCK TEAL Backlit Keyboard FP",
+            "description": "HP 17-CN2004 laptop with Core™ i5-1235U, 512GB SSD, 12GB RAM, 17.3\" touchscreen (1600x900), Peacock Teal color, Backlit Keyboard, FP Reader.",
+            "screen_size": "17.3\"",
+            "resolution": "1600x900",
+            "features": "Touchscreen, Windows 11, Backlit Keyboard, FP Reader",
+            "manufacturer": "HP",
+            "price": "$815,00"
+        },
+        {
+            "name": "HP ENVY X360 15-EY0013DX AMD Ryzen™ 5 5625U 2.3GHz 256GB SSD 8GB 15.6\" (1920x1080) TOUCHSCREEN BT WIN11 Webcam NIGHTFALL BLACK Backlit Keyboard",
+            "description": "HP ENVY X360 15-EY0013DX laptop with AMD Ryzen™ 5 5625U, 256GB SSD, 8GB RAM, 15.6\" touchscreen (1920x1080), Nightfall Black color, Backlit Keyboard, Bluetooth, Webcam.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Touchscreen, Bluetooth, Webcam, Backlit Keyboard",
+            "manufacturer": "HP",
+            "price": "$815,00"
+        },
+        {
+            "name": "HP 15-DY5003DS Core™ i5-1235U 3.30GHz 512GB SSD 12GB 15.6\" (1366x768) TOUCHSCREEN BT WIN11 Webcam UNIVERSE BLUE Backlit Keyboard FP Reader",
+            "description": "HP 15-DY5003DS laptop with Core™ i5-1235U, 512GB SSD, 12GB RAM, 15.6\" touchscreen (1366x768), Universe Blue color, Backlit Keyboard, Bluetooth, Webcam, FP Reader.",
+            "screen_size": "15.6\"",
+            "resolution": "1366x768",
+            "features": "Touchscreen, Bluetooth, Webcam, Backlit Keyboard, FP Reader",
+            "manufacturer": "HP",
+            "price": "$815,00"
+        },
+        {
+            "name": "Lenovo FLEX 5 14ALC7 2-IN-1 AMD Ryzen™ 7 5700U 512GB SSD 8GB 14\" (1920x1200) TOUCHSCREEN WIN11 CLOUD GRAY Backlit Keyboard FP Reader",
+            "description": "Lenovo FLEX 5 14ALC7 2-IN-1 laptop with AMD Ryzen™ 7 5700U, 512GB SSD, 8GB RAM, 14\" touchscreen (1920x1200), Cloud Gray color, Backlit Keyboard, FP Reader.",
+            "screen_size": "14\"",
+            "resolution": "1920x1200",
+            "features": "Touchscreen, Windows 11, Backlit Keyboard, FP Reader",
+            "manufacturer": "Lenovo",
+            "price": "$885,00"
+        },
+        {
+            "name": "HP 15-DY2033 Core™ i7-1165G7 256GB SSD 8GB 15.6\" (1366x768) WIN11 NATURAL SILVER.",
+            "description": "HP 15-DY2033 laptop with Core™ i7-1165G7, 256GB SSD, 8GB RAM, 15.6\" display (1366x768), Natural Silver color.",
+            "screen_size": "15.6\"",
+            "resolution": "1366x768",
+            "features": "Windows 11",
+            "manufacturer": "HP",
+            "price": "$900,00"
+        },
+        {
+            "name": "Lenovo 3 14ITL6 Core™ i7-1165G7 512GB SSD 8GB 14\" (1920x1080) WIN11 ARTIC GREY",
+            "description": "Lenovo 3 14ITL6 laptop with Core™ i7-1165G7, 512GB SSD, 8GB RAM, 14\" display (1920x1080), Arctic Grey color.",
+            "screen_size": "14\"",
+            "resolution": "1920x1080",
+            "features": "Windows 11",
+            "manufacturer": "Lenovo",
+            "price": "$900,00"
+        },
+        {
+            "name": "MSI CREATOR GGNC51518 GAMING Core™ i5-11400H 512GB SSD 16GB 15.6\" (1920x1080) 120Hz WIN11 NVIDIA® RTX 3050 4096MB",
+            "description": "MSI CREATOR GGNC51518 GAMING laptop with Core™ i5-11400H, 512GB SSD, 16GB RAM, 15.6\" display (1920x1080) at 120Hz, Windows 11, NVIDIA® RTX 3050 4GB.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Windows 11, 120Hz Display, NVIDIA® RTX 3050 4GB",
+            "manufacturer": "MSI",
+            "price": "$1.075,00"
+        },
+        {
+            "name": "HP Envy x360 15-EU1073 2-IN-1 AMD Ryzen™ 7 5825U 512GB SSD 16GB 15.6\" (1920x1080) TOUCHSCREEN WIN11 NIGHTFALL BLACK Backlit Keyboard",
+            "description": "HP Envy x360 15-EU1073 2-IN-1 laptop with AMD Ryzen™ 7 5825U, 512GB SSD, 16GB RAM, 15.6\" touchscreen (1920x1080), Nightfall Black color, Backlit Keyboard.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Touchscreen, Windows 11, Backlit Keyboard",
+            "manufacturer": "HP",
+            "price": "$1.050,00"
+        },
+        {
+            "name": "Lenovo 5 15IAL7 Core™ i7-1255U 512GB SSD 16GB 15.6\" (1920x1080) TOUCHSCREEN WIN11 NVIDIA® MX550 2048MB ABYSS BLUE",
+            "description": "Lenovo 5 15IAL7 laptop with Core™ i7-1255U, 512GB SSD, 16GB RAM, 15.6\" touchscreen (1920x1080), Abyss Blue color, NVIDIA® MX550 2GB.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Touchscreen, Windows 11, NVIDIA® MX550 2GB",
+            "manufacturer": "Lenovo",
+            "price": "$1.050,00"
+        },
+        {
+            "name": "Lenovo ThinkPad P1 MOBILE WORKSTATION Core™ i7-8850H 512GB SSD 16GB 15.6\" (1920x1080) WIN10 Pro NVIDIA® Quadro P2000 4096MB BLACK Backlit Keyboar",
+            "description": "Lenovo ThinkPad P1 MOBILE WORKSTATION laptop with Core™ i7-8850H, 512GB SSD, 16GB RAM, 15.6\" display (1920x1080), Windows 10 Pro, NVIDIA® Quadro P2000 4GB, Black color, Backlit Keyboard.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Windows 10 Pro, NVIDIA® Quadro P2000 4GB, Backlit Keyboard",
+            "manufacturer": "Lenovo",
+            "price": "$995,00"
+        },
+        {
+            "name": "Lenovo ThinkPad P1 MOBILE WORKSTATION Core™ i7-8750H 256GB SSD 8GB 15.6\" (1920x1080) WIN10 Pro NVIDIA® Quadro P1000 4096MB BLACK Backlit Keyboard FP",
+            "description": "Lenovo ThinkPad P1 MOBILE WORKSTATION laptop with Core™ i7-8750H, 256GB SSD, 8GB RAM, 15.6\" display (1920x1080), Windows 10 Pro, NVIDIA® Quadro P1000 4GB, Black color, Backlit Keyboard, FP Reader.",
+            "screen_size": "15.6\"",
+            "resolution": "1920x1080",
+            "features": "Windows 10 Pro, NVIDIA® Quadro P1000 4GB, Backlit Keyboard, FP Reader",
+            "manufacturer": "Lenovo",
+            "price": "$935,00"
+        },
+        {
+            "name": "HP Pavilion x360 14-DY2050 2-IN-1 Core™ i5-1235U 256GB SSD 8GB 14\" (1920x1080) WIN11 NATURAL SILVER Backlit Keyboard",
+            "description": "HP Pavilion x360 14-DY2050 2-IN-1 laptop with Core™ i5-1235U, 256GB SSD, 8GB RAM, 14\" display (1920x1080), Windows 11, Natural Silver color, Backlit Keyboard.",
+            "screen_size": "14\"",
+            "resolution": "1920x1080",
+            "features": "Windows 11, Backlit Keyboard",
+            "manufacturer": "HP",
+            "price": "$930,00"
+        }
+    ]
+}
